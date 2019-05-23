@@ -1,0 +1,5 @@
+gentle[vacilante,recio,rafagas,poco,pardo,pacifico,no ha habido,moderado,flojo,flojito,escaso,endeble,debil,de 8 y 9 millas,de 6 y 7 millas,calmoso,calmo,calma muerta,calma,brisado,abonanzado,abonanzando,brisa,abonanzo,abrisado,a fugado,apacible,apaciguado,arreciando,aventolinado,benigno,blandura,bonancible,bonanza]
+
+medium[vivo,vivito,recio,fuertecito,fuerte,fresquito,fresquecito,frescote,fresco,frescachonazo,frescachon,duro,durito,de toda vela larga,de toda vela,de proa,de alta vela,altivo]
+
+Strong[turbonada,tormentoso como especie de huracan,tormentoso,tormenta,temporal,tempestuoso,tempestad,rieguroso,mucho,muchisimo,intolerable,intenso,insufrible,insoportable,incostante,inaguantable,impetuoso,huracanado,huracan,furioso,furia,fugadas huracanadas,fuerza,fortisimo,ferocidad extraordinaria,demasiado,ahuracanado,alterados,amenazante,aturbonado,borrascoso]
